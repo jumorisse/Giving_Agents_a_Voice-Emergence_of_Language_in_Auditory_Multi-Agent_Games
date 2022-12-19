@@ -1,1 +1,1 @@
-
+This subdirectory contains the audio data used to encode symbol messages to audio messages. The raw audio files are from https://github.com/Jakobovski/free-spoken-digit-dataset . They were pre-processed according to the description in the course project paper. The script used for preprocessing is also included in the code directory of this repository.
